@@ -4,7 +4,6 @@
     margin: auto;
     text-align: center;
     padding-top: 50px;
-  
   }
   
   .facilities-col{
@@ -27,4 +26,15 @@
     margin-top: 16px;
     margin-bottom:15px;
     text-align: left;
+  }
+
+
+  @media (max-width: 600px){
+
+    .row{
+      display: flex;
+      flex-direction: column;
+    }
+
+
   }
