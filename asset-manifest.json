@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.b61526a6.css",
+    "main.js": "/reactlivewebsite/static/js/main.eac70766.js",
+    "static/js/787.f274901d.chunk.js": "/reactlivewebsite/static/js/787.f274901d.chunk.js",
+    "static/media/banner.png": "/reactlivewebsite/static/media/banner.896137787046ed837f10.png",
+    "static/media/library.png": "/reactlivewebsite/static/media/library.06333daf9fcee2c76f90.png",
+    "static/media/cafeteria.png": "/reactlivewebsite/static/media/cafeteria.f33027d1fb34e5cd0715.png",
+    "static/media/basketball.png": "/reactlivewebsite/static/media/basketball.383f35c9170608f41d81.png",
+    "static/media/newyork.png": "/reactlivewebsite/static/media/newyork.5f0e3a41335b0096be41.png",
+    "static/media/london.png": "/reactlivewebsite/static/media/london.8ff0cae94abe20255b71.png",
+    "static/media/washington.png": "/reactlivewebsite/static/media/washington.310e678c281461921f72.png",
+    "static/media/banner2.jpg": "/reactlivewebsite/static/media/banner2.db688b4a587ef606817b.jpg",
+    "static/media/user2.jpg": "/reactlivewebsite/static/media/user2.0d20d0f69481da48ef11.jpg",
+    "static/media/user1.jpg": "/reactlivewebsite/static/media/user1.e0fc14f92d25b077b94c.jpg",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.b61526a6.css.map": "/reactlivewebsite/static/css/main.b61526a6.css.map",
+    "main.eac70766.js.map": "/reactlivewebsite/static/js/main.eac70766.js.map",
+    "787.f274901d.chunk.js.map": "/reactlivewebsite/static/js/787.f274901d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b61526a6.css",
+    "static/js/main.eac70766.js"
+  ]
+}
