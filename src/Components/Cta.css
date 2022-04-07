@@ -1,0 +1,17 @@
+.cta{
+    width: 80%;
+    margin:100px auto;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../../src/Assets/banner2.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    border-radius: 10px;
+    padding: 60px 0;
+  }
+  
+  .cta h1{
+    color: white;
+    margin-bottom:40px;
+    padding:0;
+  }
+  

@@ -1,0 +1,174 @@
+
+
+.footer{
+    width: 100%;
+    height: 550px;
+    background-color:red;
+    display:flex;
+    flex-direction: column;
+    box-sizing: border-box;
+
+  }
+
+
+  .upper{
+
+    width: 100%;
+    height: 100px;
+    background-color:#242425;
+    padding:0 10%;
+    box-sizing: border-box;
+
+  }
+
+
+  
+
+  .upper span{
+    color: #6ed33c;
+  }
+
+  .upper h1{
+    color: #fff;
+  }
+
+
+  .middle{
+
+    flex: 1;
+    background-color:#212122;
+    display:flex;
+    padding:40px 10%;
+    box-sizing: border-box;
+
+  }
+
+  .lower{
+
+    width: 100%;
+    height: 100px;
+    background-color:#212122;
+    padding:0 10%;
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+    box-sizing: border-box;
+
+  }
+  
+
+  .last{
+    display: flex;
+  }
+
+
+  .last p{
+    color: #fff;
+    font-weight: 600;
+  }
+
+
+  .green:hover{
+    color: #6ed33c;
+  }
+
+  .lower span{
+    color: #6ed33c;
+  }
+
+
+  .lower p{
+    color: #fff;
+    font-weight: 600;
+  }
+
+
+  
+
+  .box2{
+    flex:1;
+    display:flex;
+    flex-direction:column;
+  }
+
+
+
+  .box2 div{
+    margin-top:20px;
+    color: gray;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    cursor: pointer;
+
+    
+  }
+
+  .box2 span{
+    margin-left:10px;
+  }
+
+  .box2 span::after{
+    content:"";
+    width : 0%;
+    height:2px;
+    background-color:#6ed33c;
+    display: block;
+    margin:auto;
+    transition: 0.5s;
+    
+  }
+
+  .box2 span:hover::after{
+    content:"";
+    width : 100%;
+    height:2px;
+    background-color:#6ed33c;
+    display: block;
+    
+  }
+
+  .box2 img{
+    width: 160px;
+    margin-top:20px;
+  }
+
+  
+  .box2 p{
+    margin-right: 40px; 
+    color: gray;
+    font-weight: 600;
+  }
+
+
+.icons{
+  display: flex;
+}
+
+
+
+.icon1{
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 50%;
+  transition:0.5s;
+}
+
+.icon{
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 50%;
+  margin-left: 10px;
+  transition:0.5s;
+}
+
+
+.icon1:hover{
+  border-color: #6ed33c;
+  background-color:#6ed33c
+}
+
+.icon:hover{
+  border-color: #6ed33c;
+  background-color:#6ed33c
+}
